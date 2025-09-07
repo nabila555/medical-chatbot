@@ -1,18 +1,13 @@
 # medical-chatbot
 ## How to setup?
 
-## step-1 create a conda environment after opening repojetory
+## Step 1: Create a conda environment after opening the repository
 
 ```bash
 conda create -n medibot python=3.10 -y
-```bash
-
-```bash
 conda activate medibot
+```
+## Step 2: Install the requirements
 ```bash
-
-## step-2 install the requarement
-
-``bash
 pip install -r requirements.txt
-```bash
+```
